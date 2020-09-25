@@ -6,3 +6,17 @@ body {
     padding: 0;
     margin: 0;
 }
+
+.container {
+    width: 1024px;
+    height: 100vh;
+    box-shadow: 0 8px 15px 1px black;
+    left: 50%;
+    margin-left: -500px;
+    position: absolute;
+}
+
+:root {
+    --light: #ffffff;
+    --HeaderFont: 'Roboto', sans-serif;
+}
