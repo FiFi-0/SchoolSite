@@ -1,0 +1,27 @@
+.contact {
+    text-align: center;
+}
+
+.contact__header {
+    text-transform: uppercase;
+    font-size: 45px;
+    padding-top: 30px;
+}
+
+.contact__number {
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.contact__link {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.contact__email {
+    font-size: 20px;
+    cursor: pointer;
+}

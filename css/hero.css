@@ -1,13 +1,11 @@
 .container--hero {
-    top: 50px;
-    left: 50%;
-    margin-left: -600px;
-    position: absolute;
+    margin: auto;
+    padding-top: 50px;
 }
 
 .hero__image {
     width: 1200px;
-    height: 424px;
+    height: 380px;
     background: url("/images/school-img.png");
 }
 
