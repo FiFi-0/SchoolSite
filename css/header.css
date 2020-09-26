@@ -1,0 +1,15 @@
+.header {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+}
+
+.header__logo {
+    height: 120px;
+    width: 130px;
+    margin: 20px;
+}
+
+.header__title {
+    font-size: 45px;
+}

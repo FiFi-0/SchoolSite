@@ -1,9 +1,13 @@
-.school-image {
+.school__image {
     background: url("/images/school-image.png");
     width: 1000px;
     height: 400px;
 }
 
-.school-title {
+.school__title {
     font-weight: 400;
+}
+
+.school__story {
+    padding-right: 20px;
 }
