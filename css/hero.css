@@ -1,18 +1,9 @@
-.container--hero {
-    margin: auto;
-    padding-top: 50px;
+.school-image {
+    background: url("/images/school-image.png");
+    width: 1000px;
+    height: 400px;
 }
 
-.hero__image {
-    width: 1200px;
-    height: 380px;
-    background: url("https://i.postimg.cc/Hx0gh58B/school-img.png");
-}
-
-.hero__text {
-    color: white;
-    font-family: var(--HeaderFont);
-    font-size: 60px;
-    margin-top: 0;
-    padding: 20px;
+.school-title {
+    font-weight: 400;
 }
