@@ -37,5 +37,5 @@
 }
 
 .nav__list-link:hover {
-    color: #99210F;
+    color: var(--red);
 }

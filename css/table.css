@@ -27,7 +27,7 @@
 }
 
 .lessons__button--selected {
-    border-color: red;
+    border-color: var(--red);
 }
 
 table {
