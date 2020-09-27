@@ -12,7 +12,6 @@
 
 .nav__list {
     padding: 20px 20px;
-    list-style: none;
     display: flex;
     flex-direction: column;
 }
