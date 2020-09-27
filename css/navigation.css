@@ -1,7 +1,7 @@
 .nav {
     display: block;
     width: 200px;
-    background-color: rgb(30, 32, 51);
+    background-color: rgb(6, 57, 70);
     border: 3px solid gray;
     height: 400px;
     text-align: center;
@@ -37,5 +37,5 @@
 }
 
 .nav__list-link:hover {
-    color: violet;
+    color: #99210F;
 }
