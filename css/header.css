@@ -1,4 +1,11 @@
 .header {
+    background-image: url("/images/background-top.png");
+    width: 1500px;
+    margin: auto;
+    height: 210px;
+}
+
+.header__inner {
     width: 1200px;
     margin: auto;
     display: flex;

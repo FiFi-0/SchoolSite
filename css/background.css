@@ -1,0 +1,30 @@
+.background {
+    display: grid;
+    grid-template-columns: 1fr 1200px 1fr;
+}
+
+.background__left {
+    position: relative;
+}
+
+.background__left-inner {
+    background-image: url("/images/background-left.png");
+    width: 204px;
+    height: 648px;
+    right: -18px;
+    position: absolute;
+    z-index: -1;
+}
+
+.background__right {
+    position: relative;
+}
+
+.background__right-inner {
+    background-image: url("/images/background-right.png");
+    width: 169px;
+    height: 638px;
+    left: 24px;
+    position: absolute;
+    z-index: -1;
+}
