@@ -3,6 +3,19 @@
     grid-template-columns: 1fr 1200px 1fr;
 }
 
+.top-background {
+    width: 100%;
+    max-width: 1500px;
+    margin: auto;
+}
+
+.top-background__inner {
+    background-image: url("http://imgur.com/pD66t73.png");
+    background-repeat: no-repeat;
+    height: 210px;
+    width: 100%;
+}
+
 .background__left {
     position: relative;
 }
@@ -16,6 +29,12 @@
     z-index: -1;
 }
 
+@media (max-width: 1500px) {
+    .background__left-inner {
+        display: none;
+    }
+}
+
 .background__right {
     position: relative;
 }
@@ -27,4 +46,10 @@
     left: 24px;
     position: absolute;
     z-index: -1;
+}
+
+@media (max-width: 1500px) {
+    .background__right-inner {
+        display: none;
+    }
 }

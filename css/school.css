@@ -6,8 +6,11 @@
 
 .school__title {
     font-weight: 400;
+    font-family: var(--HeaderFont);
+    font-size: 33px;
 }
 
 .school__story {
     padding-right: 20px;
+    color: rgb(53, 53, 53);
 }
