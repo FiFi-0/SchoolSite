@@ -5,6 +5,7 @@
     border: 3px solid gray;
     text-align: center;
     height: 400px;
+    margin-bottom: 400px;
 }
 
 .nav__title {
@@ -25,6 +26,7 @@
 .nav__list-item {
     padding-top: 10px;
     border-bottom: 1px solid white;
+    cursor: pointer;
 }
 
 .nav__list-link {
