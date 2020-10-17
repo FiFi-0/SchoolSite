@@ -33,7 +33,7 @@
     color: white;
     font-size: 23px;
     font-weight: 400;
-    font-family: 'Epilogue', sans-serif;
+    font-family: var(--HeaderFont);
     text-decoration: none;
     cursor: pointer;
 }

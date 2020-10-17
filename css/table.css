@@ -1,12 +1,12 @@
 .lessons__title {
     font-size: 35px;
-    font-family: 'Epilogue', sans-serif;
+    font-family: var(--HeaderFont);
     font-weight: 400;
 }
 
 .lessons__subtitle {
     margin: 0 10px 0 20px;
-    font-family: 'Epilogue', sans-serif;
+    font-family: var(--HeaderFont);
     font-weight: 400;
     cursor: auto;
 }
