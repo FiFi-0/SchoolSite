@@ -16,6 +16,7 @@
     .top-background__inner {
         width: 400%;
         max-width: 1200px;
+        margin: auto;
     }
 }
 
